@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Categories on BIMGEEK</title>
+    <link>https://bimgeek.github.io/categories/</link>
+    <description>Recent content in Categories on BIMGEEK</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 16 Sep 2021 20:29:54 +0300</lastBuildDate><atom:link href="https://bimgeek.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>category1</title>
+      <link>https://bimgeek.github.io/categories/category1/</link>
+      <pubDate>Thu, 16 Sep 2021 20:29:54 +0300</pubDate>
+      
+      <guid>https://bimgeek.github.io/categories/category1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>category2</title>
+      <link>https://bimgeek.github.io/categories/category2/</link>
+      <pubDate>Thu, 16 Sep 2021 20:29:54 +0300</pubDate>
+      
+      <guid>https://bimgeek.github.io/categories/category2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>blog</title>
+      <link>https://bimgeek.github.io/categories/blog/</link>
+      <pubDate>Sun, 14 Mar 2021 16:40:07 +0300</pubDate>
+      
+      <guid>https://bimgeek.github.io/categories/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>modeling</title>
+      <link>https://bimgeek.github.io/categories/modeling/</link>
+      <pubDate>Sat, 06 Jun 2020 17:09:23 +0300</pubDate>
+      
+      <guid>https://bimgeek.github.io/categories/modeling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tips and tricks</title>
+      <link>https://bimgeek.github.io/categories/tips-and-tricks/</link>
+      <pubDate>Sat, 06 Jun 2020 17:09:23 +0300</pubDate>
+      
+      <guid>https://bimgeek.github.io/categories/tips-and-tricks/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
