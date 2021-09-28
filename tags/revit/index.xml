@@ -1,65 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>revit on BIMGEEK</title>
-    <link>https://bimgeek.github.io/tags/revit/</link>
-    <description>Recent content in revit on BIMGEEK</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 14 Mar 2021 16:40:07 +0300</lastBuildDate><atom:link href="https://bimgeek.github.io/tags/revit/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Rhino Inside Revit Nedir</title>
-      <link>https://bimgeek.github.io/tutorials/rhino-inside-revit-nedir/</link>
-      <pubDate>Sun, 14 Mar 2021 16:40:07 +0300</pubDate>
-      
-      <guid>https://bimgeek.github.io/tutorials/rhino-inside-revit-nedir/</guid>
-      <description>Grasshopper ile yapılmış mimari projelere bir örnek: Shanghai Tower, Gensler
-Rhino ve Grasshopper Rhino🦏, McNeel tarafından geliştirilen bir 3D modelleme uygulaması ve 1980&amp;rsquo;de piyasaya sürülmesinden bu yana, güçlü geometri motoru💪 ve çok yönlülüğü nedeniyle mimari, imalat, endüstriyel tasarım ve ürün tasarımı için kullanılan önemli tasarım uygulamalarından biri haline gelmiştir. Rhino&amp;rsquo;nun geometri mantığının altında NURBS (Non-uniform rational B-spline) yatar. NURBS&amp;rsquo;ler sayesinde, mesh tabanlı uygulamaların aksine, hassas eğrileri ve yüzeyleri matematiksel olarak modelleyebilir.</description>
-    </item>
-    
-    <item>
-      <title>Sadece Gölgeleri Export Almak</title>
-      <link>https://bimgeek.github.io/tutorials/golgeleri-export-almak/</link>
-      <pubDate>Sat, 25 Jul 2020 17:23:58 +0300</pubDate>
-      
-      <guid>https://bimgeek.github.io/tutorials/golgeleri-export-almak/</guid>
-      <description>Herkese selamlar,
-Bu video’da grafik anlamda birçok kullanıcının işine yarayacak bir konudan bahsettim: Gölgeyi ayrıca export almak. Post production aşamasında büyük kolaylıklar sağlayan bu konu, Revit’te standart olarak olan bir çözüm değil. Ancak biraz dolambaçlı da olsa bunun da bir çözümü var.
-.button {display: flex;height: 50px;padding: 0;background: #DC3545;border: none;outline: none;border-radius: 5px;overflow: hidden;font-size: 16px;font-weight: 600;cursor: pointer;}.</description>
-    </item>
-    
-    <item>
-      <title>Mutfak Modelleme - Default Family&#39;leri Kullanarak</title>
-      <link>https://bimgeek.github.io/tutorials/mutfak-modelleme/</link>
-      <pubDate>Wed, 22 Jul 2020 17:23:37 +0300</pubDate>
-      
-      <guid>https://bimgeek.github.io/tutorials/mutfak-modelleme/</guid>
-      <description>Herkese selamlar,
-Bu videoda Revit&amp;rsquo;le beraber gelen kütüphanedeki familyleri kullanarak bir mutfak modellemesi yaptım. Birçok kullanıcı Revit&amp;rsquo;le beraber gelen kütüphaneyi göz ardı ediyor. Bu videoda hazır kütüphanenin potansiyelini ortaya çıkarmaya çalıştım. Umarım birşeyler öğrenmişsinizdir.
-.button {display: flex;height: 50px;padding: 0;background: #DC3545;border: none;outline: none;border-radius: 5px;overflow: hidden;font-size: 16px;font-weight: 600;cursor: pointer;}.button:hover {background: #C82333;}.button:active {background: #DC3545;}.</description>
-    </item>
-    
-    <item>
-      <title>Üç Kollu Merdiven</title>
-      <link>https://bimgeek.github.io/tutorials/uc-kollu-merdiven/</link>
-      <pubDate>Sat, 13 Jun 2020 17:14:37 +0300</pubDate>
-      
-      <guid>https://bimgeek.github.io/tutorials/uc-kollu-merdiven/</guid>
-      <description>Herkese selamlar,
-Bu videoda standart araçlarla yapmanın mümkün olmadığını sanılan, eskiz ile çizimi de oldukça kafa karıştırıcı olan &amp;lsquo;Üç Kollu Merdiven&amp;rsquo;i Revit&amp;rsquo;te oluşturduk. Umarım faydalı olmuştur.
-.button {display: flex;height: 50px;padding: 0;background: #DC3545;border: none;outline: none;border-radius: 5px;overflow: hidden;font-size: 16px;font-weight: 600;cursor: pointer;}.button:hover {background: #C82333;}.button:active {background: #DC3545;}.button__text,.button__icon {display: inline-flex;align-items: center;padding: 0 15px;color: #fff;height: 100%;}.</description>
-    </item>
-    
-    <item>
-      <title>Revit&#39;te Kıvrımlı Çatı Yapmak</title>
-      <link>https://bimgeek.github.io/tutorials/kivrimli-cati/</link>
-      <pubDate>Sat, 06 Jun 2020 17:09:23 +0300</pubDate>
-      
-      <guid>https://bimgeek.github.io/tutorials/kivrimli-cati/</guid>
-      <description>Herkese selamlar,
-İlk videoda ilginç bir konuyla, kıvrımlı bir çatıyı Revit ortamında nasıl oluşturabileceğimizle başladık. Video önerilerinizi yorum kısmında belirtirseniz, o konularda da içerikler üretmek isterim.
-.button {display: flex;height: 50px;padding: 0;background: #DC3545;border: none;outline: none;border-radius: 5px;overflow: hidden;font-size: 16px;font-weight: 600;cursor: pointer;}.button:hover {background: #C82333;}.button:active {background: #DC3545;}.button__text,.button__icon {display: inline-flex;align-items: center;padding: 0 15px;color: #fff;height: 100%;}.</description>
-    </item>
-    
-  </channel>
-</rss>
