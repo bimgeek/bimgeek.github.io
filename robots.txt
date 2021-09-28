@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: http://bimgeek.github.io/sitemap.xml
