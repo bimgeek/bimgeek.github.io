@@ -6,7 +6,18 @@
     <description>Recent content in kitchen on BIMGEEK</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 22 Jul 2020 17:23:37 +0300</lastBuildDate><atom:link href="https://bimgeek.github.io/tags/kitchen/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 30 Sep 2020 16:38:45 +0300</lastBuildDate><atom:link href="https://bimgeek.github.io/tags/kitchen/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Parametrik Mutfak Mobilyasi</title>
+      <link>https://bimgeek.github.io/tutorials/parametrik-mutfak-mobilyasi/</link>
+      <pubDate>Wed, 30 Sep 2020 16:38:45 +0300</pubDate>
+      
+      <guid>https://bimgeek.github.io/tutorials/parametrik-mutfak-mobilyasi/</guid>
+      <description>Herkese selamlar,
+Geçtiğimiz videolarda Revit&amp;rsquo;in hazır kütüphanesini kullanarak bir mutfak modellemesi gerçekleştirmiştik. Bu videoda basit bir Parametrik Mutfak Mobilyası modelleyeceğiz. İyi seyirler.
+.button {display: flex;height: 50px;padding: 0;background: #DC3545;border: none;outline: none;border-radius: 5px;overflow: hidden;font-size: 16px;font-weight: 600;cursor: pointer;}.button:hover {background: #C82333;}.button:active {background: #DC3545;}.button__text,.button__icon {display: inline-flex;align-items: center;padding: 0 15px;color: #fff;height: 100%;}.</description>
+    </item>
+    
     <item>
       <title>Mutfak Modelleme - Default Family&#39;leri Kullanarak</title>
       <link>https://bimgeek.github.io/tutorials/mutfak-modelleme/</link>
