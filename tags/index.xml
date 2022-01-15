@@ -6,22 +6,58 @@
     <description>Recent content in Tags on BIMGEEK</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 16 Sep 2021 20:29:54 +0300</lastBuildDate><atom:link href="https://bimgeek.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 13 Jan 2022 22:16:09 +0300</lastBuildDate><atom:link href="https://bimgeek.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>computational design</title>
-      <link>https://bimgeek.github.io/tags/computational-design/</link>
-      <pubDate>Thu, 16 Sep 2021 20:29:54 +0300</pubDate>
+      <title>dynamo</title>
+      <link>https://bimgeek.github.io/tags/dynamo/</link>
+      <pubDate>Thu, 13 Jan 2022 22:16:09 +0300</pubDate>
       
-      <guid>https://bimgeek.github.io/tags/computational-design/</guid>
+      <guid>https://bimgeek.github.io/tags/dynamo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>english</title>
       <link>https://bimgeek.github.io/tags/english/</link>
-      <pubDate>Thu, 16 Sep 2021 20:29:54 +0300</pubDate>
+      <pubDate>Thu, 13 Jan 2022 22:16:09 +0300</pubDate>
       
       <guid>https://bimgeek.github.io/tags/english/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>excel</title>
+      <link>https://bimgeek.github.io/tags/excel/</link>
+      <pubDate>Thu, 13 Jan 2022 22:16:09 +0300</pubDate>
+      
+      <guid>https://bimgeek.github.io/tags/excel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>revit</title>
+      <link>https://bimgeek.github.io/tags/revit/</link>
+      <pubDate>Thu, 13 Jan 2022 22:16:09 +0300</pubDate>
+      
+      <guid>https://bimgeek.github.io/tags/revit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>speckle</title>
+      <link>https://bimgeek.github.io/tags/speckle/</link>
+      <pubDate>Thu, 13 Jan 2022 22:16:09 +0300</pubDate>
+      
+      <guid>https://bimgeek.github.io/tags/speckle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>computational design</title>
+      <link>https://bimgeek.github.io/tags/computational-design/</link>
+      <pubDate>Thu, 16 Sep 2021 20:29:54 +0300</pubDate>
+      
+      <guid>https://bimgeek.github.io/tags/computational-design/</guid>
       <description></description>
     </item>
     
@@ -40,15 +76,6 @@
       <pubDate>Thu, 16 Sep 2021 20:29:54 +0300</pubDate>
       
       <guid>https://bimgeek.github.io/tags/grasshopper/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>revit</title>
-      <link>https://bimgeek.github.io/tags/revit/</link>
-      <pubDate>Thu, 16 Sep 2021 20:29:54 +0300</pubDate>
-      
-      <guid>https://bimgeek.github.io/tags/revit/</guid>
       <description></description>
     </item>
     
