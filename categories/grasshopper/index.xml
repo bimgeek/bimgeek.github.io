@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>grasshopper on BIMGEEK</title>
+    <link>https://bimgeek.github.io/categories/grasshopper/</link>
+    <description>Recent content in grasshopper on BIMGEEK</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 22 Feb 2022 16:06:57 +0300</lastBuildDate><atom:link href="https://bimgeek.github.io/categories/grasshopper/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Random Distribution on Topography</title>
+      <link>https://bimgeek.github.io/tutorials/random-distribution-on-topography/</link>
+      <pubDate>Tue, 22 Feb 2022 16:06:57 +0300</pubDate>
+      
+      <guid>https://bimgeek.github.io/tutorials/random-distribution-on-topography/</guid>
+      <description>Hello everyone👋,
+I created a tutorial on placing objects randomly on a topography using Grasshopper inside Revit and created a forest model as an example case. The tree🌳 family I&amp;rsquo;ve used is actually created by Gavin Crump. I gave him credit in the video as well😊. Please comment the topics you would like to see more content about. This tutorial is a great example to show how integrated Grasshopper and Revit are.</description>
+    </item>
+    
+  </channel>
+</rss>
