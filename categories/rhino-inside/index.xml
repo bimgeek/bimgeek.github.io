@@ -6,7 +6,17 @@
     <description>Recent content in rhino inside on BIMGEEK</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 22 Feb 2022 16:06:57 +0300</lastBuildDate><atom:link href="https://bimgeek.github.io/categories/rhino-inside/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 04 Mar 2022 14:58:12 +0300</lastBuildDate><atom:link href="https://bimgeek.github.io/categories/rhino-inside/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project Objects to Topography</title>
+      <link>https://bimgeek.github.io/tutorials/project-objects-to-topography/</link>
+      <pubDate>Fri, 04 Mar 2022 14:58:12 +0300</pubDate>
+      
+      <guid>https://bimgeek.github.io/tutorials/project-objects-to-topography/</guid>
+      <description>Hello everyone👋,
+The topic of this tutorial is the projection of components into given topography. This is a task that can be easily automated with a simple script. Otherwise, manual placement of each object into a slanted surface would take a lot of time and kill your joy of life :). With this grasshopper script, we will get the location point of objects from Revit, project this point into Topography and use projected points as the new location point for tree families.</description>
+    </item>
+    
     <item>
       <title>Random Distribution on Topography</title>
       <link>https://bimgeek.github.io/tutorials/random-distribution-on-topography/</link>
