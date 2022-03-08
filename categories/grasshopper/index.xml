@@ -6,7 +6,17 @@
     <description>Recent content in grasshopper on BIMGEEK</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 04 Mar 2022 14:58:12 +0300</lastBuildDate><atom:link href="https://bimgeek.github.io/categories/grasshopper/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 08 Mar 2022 15:18:59 +0300</lastBuildDate><atom:link href="https://bimgeek.github.io/categories/grasshopper/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Add Instance Parameter to Stacked Walls</title>
+      <link>https://bimgeek.github.io/tutorials/add-instance-parameter-to-stacked-walls/</link>
+      <pubDate>Tue, 08 Mar 2022 15:18:59 +0300</pubDate>
+      
+      <guid>https://bimgeek.github.io/tutorials/add-instance-parameter-to-stacked-walls/</guid>
+      <description>💡Quick Revit Workaround💡
+Did you know you can&amp;rsquo;t set Instance Parameters to Stacked Walls in Revit? I shared a workaround🔄 to add aninstance parameter as well as set a value of it in this video. Hope you like it 👍</description>
+    </item>
+    
     <item>
       <title>Project Objects to Topography</title>
       <link>https://bimgeek.github.io/tutorials/project-objects-to-topography/</link>
