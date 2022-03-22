@@ -6,7 +6,16 @@
     <description>Recent content in Tutorials on BIMGEEK</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 13 Mar 2022 18:30:09 +0300</lastBuildDate><atom:link href="https://bimgeek.github.io/tutorials/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 21 Mar 2022 18:30:09 +0300</lastBuildDate><atom:link href="https://bimgeek.github.io/tutorials/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Create Sheets from Excel</title>
+      <link>https://bimgeek.github.io/tutorials/create-sheets-from-excel/</link>
+      <pubDate>Mon, 21 Mar 2022 18:30:09 +0300</pubDate>
+      
+      <guid>https://bimgeek.github.io/tutorials/create-sheets-from-excel/</guid>
+      <description>This is a classic one! You&amp;rsquo;ve probably come across some version of this tutorial if you made any search about Dynamo. Let me show you how you can do it in Grasshopper🦗. In this video, I created a pretty basic script. This script reads sheet data (sheet number, sheet name, etc&amp;hellip;) from Excel then creates new sheets in Revit using this data. After the sheets have been created, the script updates specific sheet parameters using the Excel data.</description>
+    </item>
+    
     <item>
       <title>Check Fire Rating of Doors and Walls</title>
       <link>https://bimgeek.github.io/tutorials/check-fire-rating-of-doors-and-walls/</link>
