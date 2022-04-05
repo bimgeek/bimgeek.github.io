@@ -2,37 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://bimgeek.github.io/</loc>
+    <lastmod>2022-04-04T17:30:09+03:00</lastmod>
+  </url><url>
+    <loc>https://bimgeek.github.io/categories/</loc>
+    <lastmod>2022-04-04T17:30:09+03:00</lastmod>
+  </url><url>
+    <loc>https://bimgeek.github.io/tags/english/</loc>
+    <lastmod>2022-04-04T17:30:09+03:00</lastmod>
+  </url><url>
+    <loc>https://bimgeek.github.io/tutorials/find-intersecting-elements/</loc>
+    <lastmod>2022-04-04T17:30:09+03:00</lastmod>
+  </url><url>
+    <loc>https://bimgeek.github.io/tags/grasshopper/</loc>
+    <lastmod>2022-04-04T17:30:09+03:00</lastmod>
+  </url><url>
+    <loc>https://bimgeek.github.io/categories/grasshopper/</loc>
+    <lastmod>2022-04-04T17:30:09+03:00</lastmod>
+  </url><url>
+    <loc>https://bimgeek.github.io/tags/revit/</loc>
+    <lastmod>2022-04-04T17:30:09+03:00</lastmod>
+  </url><url>
+    <loc>https://bimgeek.github.io/categories/rhino-inside/</loc>
+    <lastmod>2022-04-04T17:30:09+03:00</lastmod>
+  </url><url>
+    <loc>https://bimgeek.github.io/tags/</loc>
+    <lastmod>2022-04-04T17:30:09+03:00</lastmod>
+  </url><url>
+    <loc>https://bimgeek.github.io/tutorials/</loc>
+    <lastmod>2022-04-04T17:30:09+03:00</lastmod>
+  </url><url>
+    <loc>https://bimgeek.github.io/tutorials/create-family-types-from-excel/</loc>
+    <lastmod>2022-03-28T18:30:09+03:00</lastmod>
+  </url><url>
     <loc>https://bimgeek.github.io/tags/beginner/</loc>
     <lastmod>2022-03-21T18:30:09+03:00</lastmod>
   </url><url>
-    <loc>https://bimgeek.github.io/</loc>
-    <lastmod>2022-03-21T18:30:09+03:00</lastmod>
-  </url><url>
-    <loc>https://bimgeek.github.io/categories/</loc>
-    <lastmod>2022-03-21T18:30:09+03:00</lastmod>
-  </url><url>
     <loc>https://bimgeek.github.io/tutorials/create-sheets-from-excel/</loc>
-    <lastmod>2022-03-21T18:30:09+03:00</lastmod>
-  </url><url>
-    <loc>https://bimgeek.github.io/tags/english/</loc>
-    <lastmod>2022-03-21T18:30:09+03:00</lastmod>
-  </url><url>
-    <loc>https://bimgeek.github.io/tags/grasshopper/</loc>
-    <lastmod>2022-03-21T18:30:09+03:00</lastmod>
-  </url><url>
-    <loc>https://bimgeek.github.io/categories/grasshopper/</loc>
-    <lastmod>2022-03-21T18:30:09+03:00</lastmod>
-  </url><url>
-    <loc>https://bimgeek.github.io/tags/revit/</loc>
-    <lastmod>2022-03-21T18:30:09+03:00</lastmod>
-  </url><url>
-    <loc>https://bimgeek.github.io/categories/rhino-inside/</loc>
-    <lastmod>2022-03-21T18:30:09+03:00</lastmod>
-  </url><url>
-    <loc>https://bimgeek.github.io/tags/</loc>
-    <lastmod>2022-03-21T18:30:09+03:00</lastmod>
-  </url><url>
-    <loc>https://bimgeek.github.io/tutorials/</loc>
     <lastmod>2022-03-21T18:30:09+03:00</lastmod>
   </url><url>
     <loc>https://bimgeek.github.io/tutorials/check-fire-rating-of-doors-and-walls/</loc>

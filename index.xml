@@ -6,7 +6,27 @@
     <description>Recent content on BIMGEEK</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Mar 2022 18:30:09 +0300</lastBuildDate><atom:link href="https://bimgeek.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 04 Apr 2022 17:30:09 +0300</lastBuildDate><atom:link href="https://bimgeek.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Find Intersecting Elements💥</title>
+      <link>https://bimgeek.github.io/tutorials/find-intersecting-elements/</link>
+      <pubDate>Mon, 04 Apr 2022 17:30:09 +0300</pubDate>
+      
+      <guid>https://bimgeek.github.io/tutorials/find-intersecting-elements/</guid>
+      <description>When objects are intersecting with each other💥, finding those objects manually is a time consuming task. In this tutorial, I showed you a quick way to filter walls that are intersecting with the example structural model. This is especially useful when creating clash free models within native Revit environment.
+#callout {background: #b3b3b33f;padding: 1.5em 1.25em;border-radius: 3px;display: flex;flex-direction: row;margin-bottom: 20px;}#callout-inner {margin-left: 1em;}@media (max-width: 767px) {#callout {padding: 1.</description>
+    </item>
+    
+    <item>
+      <title>Create Family Types From Excel</title>
+      <link>https://bimgeek.github.io/tutorials/create-family-types-from-excel/</link>
+      <pubDate>Mon, 28 Mar 2022 18:30:09 +0300</pubDate>
+      
+      <guid>https://bimgeek.github.io/tutorials/create-family-types-from-excel/</guid>
+      <description>In this video, I’ll create new family types from Excel data using Grasshopper. By default, Revit’s API doesn’t allow creation of new types, so I will duplicate existing types and rename them. Once that’s done, I will update its parameters using the Excel data. Let’s go✅!
+#callout {background: #b3b3b33f;padding: 1.5em 1.25em;border-radius: 3px;display: flex;flex-direction: row;margin-bottom: 20px;}#callout-inner {margin-left: 1em;}@media (max-width: 767px) {#callout {padding: 1.</description>
+    </item>
+    
     <item>
       <title>Create Sheets from Excel</title>
       <link>https://bimgeek.github.io/tutorials/create-sheets-from-excel/</link>
