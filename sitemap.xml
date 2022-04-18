@@ -3,33 +3,36 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://bimgeek.github.io/</loc>
-    <lastmod>2022-04-04T17:30:09+03:00</lastmod>
+    <lastmod>2022-04-18T19:00:28+03:00</lastmod>
   </url><url>
     <loc>https://bimgeek.github.io/categories/</loc>
-    <lastmod>2022-04-04T17:30:09+03:00</lastmod>
+    <lastmod>2022-04-18T19:00:28+03:00</lastmod>
+  </url><url>
+    <loc>https://bimgeek.github.io/tutorials/create-rooms-from-cad/</loc>
+    <lastmod>2022-04-18T19:00:28+03:00</lastmod>
   </url><url>
     <loc>https://bimgeek.github.io/tags/english/</loc>
-    <lastmod>2022-04-04T17:30:09+03:00</lastmod>
-  </url><url>
-    <loc>https://bimgeek.github.io/tutorials/find-intersecting-elements/</loc>
-    <lastmod>2022-04-04T17:30:09+03:00</lastmod>
+    <lastmod>2022-04-18T19:00:28+03:00</lastmod>
   </url><url>
     <loc>https://bimgeek.github.io/tags/grasshopper/</loc>
-    <lastmod>2022-04-04T17:30:09+03:00</lastmod>
+    <lastmod>2022-04-18T19:00:28+03:00</lastmod>
   </url><url>
     <loc>https://bimgeek.github.io/categories/grasshopper/</loc>
-    <lastmod>2022-04-04T17:30:09+03:00</lastmod>
+    <lastmod>2022-04-18T19:00:28+03:00</lastmod>
   </url><url>
     <loc>https://bimgeek.github.io/tags/revit/</loc>
-    <lastmod>2022-04-04T17:30:09+03:00</lastmod>
+    <lastmod>2022-04-18T19:00:28+03:00</lastmod>
   </url><url>
     <loc>https://bimgeek.github.io/categories/rhino-inside/</loc>
-    <lastmod>2022-04-04T17:30:09+03:00</lastmod>
+    <lastmod>2022-04-18T19:00:28+03:00</lastmod>
   </url><url>
     <loc>https://bimgeek.github.io/tags/</loc>
-    <lastmod>2022-04-04T17:30:09+03:00</lastmod>
+    <lastmod>2022-04-18T19:00:28+03:00</lastmod>
   </url><url>
     <loc>https://bimgeek.github.io/tutorials/</loc>
+    <lastmod>2022-04-18T19:00:28+03:00</lastmod>
+  </url><url>
+    <loc>https://bimgeek.github.io/tutorials/find-intersecting-elements/</loc>
     <lastmod>2022-04-04T17:30:09+03:00</lastmod>
   </url><url>
     <loc>https://bimgeek.github.io/tutorials/create-family-types-from-excel/</loc>
@@ -224,10 +227,10 @@
     <loc>https://bimgeek.github.io/tags/boq/</loc>
     <lastmod>2020-08-12T16:35:22+03:00</lastmod>
   </url><url>
-    <loc>https://bimgeek.github.io/categories/scheduling/</loc>
+    <loc>https://bimgeek.github.io/tutorials/cimento-maliyeti-hesaplama/</loc>
     <lastmod>2020-08-12T16:35:22+03:00</lastmod>
   </url><url>
-    <loc>https://bimgeek.github.io/tutorials/cimento-maliyeti-hesaplama/</loc>
+    <loc>https://bimgeek.github.io/categories/scheduling/</loc>
     <lastmod>2020-08-12T16:35:22+03:00</lastmod>
   </url><url>
     <loc>https://bimgeek.github.io/tutorials/besik-cati/</loc>
